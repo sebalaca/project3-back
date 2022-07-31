@@ -253,9 +253,11 @@ GET /stories
 The url to your repository and to your deployed project
 
 [Client repository Link - Front - AN](https://github.com/unimexes2/project3-front)
+
 [Client repository Link - Front - SL](https://github.com/sebalaca?tab=repositories)
 
 [Server repository Link - Back - AN](https://github.com/unimexes2/project3-back)
+
 [Server repository Link - Back - SL](https://github.com/sebalaca/project3-back)
 
 [Deployed App Link](https://protectorapalafols.herokuapp.com)
